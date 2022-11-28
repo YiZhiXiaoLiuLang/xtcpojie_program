@@ -23,4 +23,6 @@ allhs.py是动态页面加载、生成用的。
 
 后台.py写不动，摆烂了。
 
+具体效果见静态demo:yizhixiaoliulang.github.io/xtcpojie_demo
+
 
